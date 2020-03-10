@@ -1,0 +1,11 @@
+fun main(args: Array<String>) {
+    //Tipo any adopta String.       
+    var cosas:Any = "casa"
+    println(cosas)
+    //Tipo any adopta enteros.       
+    var numeros:Any = 19
+    println(numeros)
+    //Tipo any adopta float.       
+    var numeros1:Any = 13.5f
+    println(numeros1)
+}
