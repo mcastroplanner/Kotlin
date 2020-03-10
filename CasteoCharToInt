@@ -1,0 +1,6 @@
+fun main(args: Array<String>) {
+    var peso:Char='8'
+    var pesoInt:Int=peso.toInt()-48
+    var suma:Int=5+pesoInt
+    println(suma)
+}
