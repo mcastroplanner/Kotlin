@@ -1,0 +1,9 @@
+fun main(args: Array<String>) {
+    var nombre:String="Marcelo"
+    var apellido:String="Castro"
+    var dinero:Int=10
+    println("Mi nombre es: $nombre y mi apellido es: $apellido")
+    println("El largo de mi nombre es de: ${nombre.length} caracteres y el largo de mi apellido es de: ${apellido.length}")
+    println("Mi nombre es: $nombre y tengo $dinero dolares")
+    println("Mi apellido es: $apellido y gaste los ${'$'}$dinero dolares")
+}
