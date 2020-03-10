@@ -1,0 +1,12 @@
+fun main(args: Array<String>) {
+    //Arreglo de números enteros.       
+    var arreglo:Array<Int> = arrayOf(1,2,3)
+    	println(arreglo[1])
+    //Arreglo de números enteros otra forma de escribirlo.     
+     var arreglo1 = intArrayOf(1,2,3)
+    	println(arreglo[2])   
+        
+    //Arreglo de cadena de caracteres.
+    var autos:Array<String> = arrayOf("Fiat","Ford","Chevrolet")
+        println(autos[1])
+}
