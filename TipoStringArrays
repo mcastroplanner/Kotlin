@@ -3,6 +3,6 @@ fun main(args: Array<String>) {
     println("Imprime el contenido de la variable String nombre.")
     println(nombre)
     println()
-    println("Ahora imprime el caracter de la posiciÃ³n 0 cero.")
+    println("Ahora imprime el caracter de la posicion 0 cero.")
     println(nombre[0])    
 }
